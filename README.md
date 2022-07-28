@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Irshath Ahamed</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>
 
