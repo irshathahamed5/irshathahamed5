@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Phython,sql**
 
-- 📫 How to reach me **ahamedirshath2292gmail.com**
+- 📫 How to reach me **ahamedirshath229gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
